@@ -1,0 +1,16 @@
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\bin\Debug\TemplatesHomeWork.exe.config
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\bin\Debug\TemplatesHomeWork.exe
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\bin\Debug\TemplatesHomeWork.pdb
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\MainWindow.g.cs
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\App.g.cs
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\TemplatesHomeWork_MarkupCompile.cache
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\TemplatesHomeWork_MarkupCompile.lref
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\App.baml
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\MainWindow.baml
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\TemplatesHomeWork.g.resources
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\TemplatesHomeWork.Properties.Resources.resources
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\TemplatesHomeWork.csproj.GenerateResource.cache
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\TemplatesHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\TemplatesHomeWork.exe
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\TemplatesHomeWork.pdb
+C:\Users\гороховв.CORP\source\repos\TemplatesHomeWork\TemplatesHomeWork\obj\Debug\TemplatesHomeWork.csprojAssemblyReference.cache
