@@ -31,7 +31,7 @@
        <Style TargetType="{x:Type TextBox}">
             <Setter Property="Background" Value="LightGray"/>
             <Setter Property="BorderBrush" Value="Black"/>
-            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Foreground" Value="Black"/>
             <Setter Property="BorderThickness" Value="0"/>
             <Setter Property="KeyboardNavigation.TabNavigation" Value="None"/>
             <Setter Property="HorizontalContentAlignment" Value="Center"/>
@@ -42,7 +42,7 @@
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="{x:Type TextBox}">
-                        <Border x:Name="border" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" SnapsToDevicePixels="True">
+                        <Border CornerRadius="100" x:Name="border" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" SnapsToDevicePixels="True">
                             <ScrollViewer x:Name="PART_ContentHost" Focusable="false" HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Hidden"/>
                         </Border>
                         <ControlTemplate.Triggers>
